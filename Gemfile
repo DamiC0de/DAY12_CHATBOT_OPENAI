@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+ruby '3.0.0'
+gem 'twitter'
+gem 'rubocop'
+gem 'pry'
+gem 'rspec'
+gem 'dotenv'
+gem 'http'
+gem 'json'
+gem 'httparty'
